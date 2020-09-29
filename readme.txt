@@ -1,7 +1,4 @@
-hello world Day 2 XDemo
-
-Day 2
-
-Hello World
+Hello Everyone
 I'm Pranjal Gunjal
 Welcome to day 4 Github Demo
+Happy Learning!!!
